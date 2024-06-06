@@ -1,6 +1,6 @@
 let accessToken = '';
 const clientID = '5b52ef79721249de987db81eb1e1b5aa';
-const redirectURL = 'http://localhost:3000/';
+const redirectURL = 'https://hanhz2707.github.io/Playlist_Jamming/';
 
 
 const Spotify = {
