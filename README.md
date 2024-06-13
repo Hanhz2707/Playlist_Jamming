@@ -2,8 +2,7 @@
 
 This project aims to create a playlist using the Spotify API. 
 
-1. The project is one of Codecademy personal project.
-2. Here is the link to the [site](https://hanhz2707jammingproject.surge.sh/).
+1. Here is the link to the [site](https://hanhz2707jammingproject.surge.sh/).
 
 ---
 
